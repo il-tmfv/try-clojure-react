@@ -18,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/src/try_clojure_react/core.cljs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="665">
-              <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -90,37 +90,6 @@
             <path>
               <item name="try-clojure-react" type="b2602c69:ProjectViewProjectNode" />
               <item name="try-clojure-react" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="try-clojure-react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="try-clojure-react" type="462c0819:PsiDirectoryNode" />
-              <item name="dev" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="try-clojure-react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="try-clojure-react" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="try-clojure-react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="try-clojure-react" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="try-clojure-react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="try-clojure-react" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="try-clojure-react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="try-clojure-react" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="compiled" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="try-clojure-react" type="b2602c69:ProjectViewProjectNode" />
@@ -226,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526499265053</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add watcher to test its functionality">
+      <created>1526582026537</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526582026537</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -247,7 +223,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -267,8 +243,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Add simple list component" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add simple list component" />
+    <MESSAGE value="Add watcher to test its functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add watcher to test its functionality" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/try_clojure_react/core.cljs">
@@ -335,7 +314,7 @@
     <entry file="file://$PROJECT_DIR$/src/try_clojure_react/core.cljs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
-          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
         </state>
       </provider>
     </entry>
