@@ -21,6 +21,11 @@
 (defn remove-item []
   (swap! items-count #(if (<= % 0) 0 (dec %))))
 
+(add-watch items-count :count-watcher
+           (fn [_k _r o n]
+             (println
+               (str "New count: " n ", was: " o))))
+
 (defn on-js-reload [])
 ;; optionally touch your app-state to force rerendering depending on
 ;; your application
